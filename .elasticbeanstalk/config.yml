@@ -7,7 +7,7 @@ global:
   branch: null
   default_ec2_keyname: null
   default_platform: Docker 18.06.1-ce
-  default_region: eu-west-3
+  default_region: eu-west-2
   include_git_submodules: true
   instance_profile: null
   platform_name: null
